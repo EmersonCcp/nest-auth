@@ -22,7 +22,7 @@ Luego, sigue estos pasos:
 
 ```bash
 git clone https://github.com/EmersonCcp/nest-auth.git
-cd authentication_nodejs
+cd nest-auth
 ```
 
 ## 2. Instalar Dependencias:
